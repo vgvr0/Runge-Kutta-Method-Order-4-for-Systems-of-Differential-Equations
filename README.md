@@ -47,7 +47,7 @@ for t, y in zip(t_values, y_values):
 In this example, we define a system of 3 differential equations and set the initial conditions, step size, and number of iterations. The runge_kutta_system_integration function is called with these parameters, and the computed t and y values at each step are printed.
 
 ## Dependencies
-NumPy: A library for numerical computing in Python.
+> NumPy: A library for numerical computing in Python.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
